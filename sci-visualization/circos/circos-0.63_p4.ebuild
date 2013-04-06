@@ -5,7 +5,7 @@ EAPI=4
 
 DESCRIPTION="Circular layout visualization of genomic and other data"
 HOMEPAGE="http://mkweb.bcgsc.ca/circos/"
-SRC_URI="http://circos.ca/distribution/${P}.tgz"
+SRC_URI="http://circos.ca/distribution/circos-0.63-4.tgz"
 
 LICENSE="GPL-2"
 SLOT="0"
