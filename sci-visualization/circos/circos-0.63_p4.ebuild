@@ -12,6 +12,8 @@ SLOT="0"
 IUSE=""
 KEYWORDS="~amd64 ~x86 ~amd64-linux ~x86-linux"
 
+S="${WORKDIR}/circos-0.63-4"
+
 DEPEND="dev-perl/config-general
 	dev-perl/GD
 	dev-perl/Math-Bezier
